@@ -3,4 +3,9 @@
 #----------------------------
 
 1) Dumplings
+<<<<<<< HEAD
 2) Easy tomato pizzas
+=======
+2) Thai fried prawn & pineapple rice
+3) Easy cheesy bake
+>>>>>>> master
