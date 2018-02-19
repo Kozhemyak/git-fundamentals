@@ -1,2 +1,4 @@
-# git-fundamentals
-It's a repo for git learning
+# GIT Features Learning
+
+## Start here
+
